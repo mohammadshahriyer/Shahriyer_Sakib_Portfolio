@@ -23,7 +23,7 @@ h1{
 width: 100%;
 }
  .top_bannar{
-    background-image: url(bg.jpg);
+    background-image: url(image/bg.jpg);
     background-repeat: no-repeat;
     
  }
@@ -47,7 +47,7 @@ div{
 .middle-bannar{
     width: fit-content;
     padding-top: 50px;
-    background-image: url(BG_right.png);
+    background-image: url(image/BG_right.png);
     background-repeat: no-repeat;
     background-position: right;
 }
