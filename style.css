@@ -1,0 +1,93 @@
+body{
+    margin: 0  ;
+    text-align: justify;
+    font-family: 'Fira Sans', sans-serif;
+    
+}
+h1{
+    font-size: 50px;
+}
+.name{
+    font-size: 50 px;
+    color: orange;
+    font-family: 'Rubik Iso', cursive;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half-width img {
+width: 100%;
+}
+ .top_bannar{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    
+ }
+ section{
+    height: 500px;
+    padding-bottom: 150 px;
+ }
+div{
+    height: 500px;
+    width: 300px;
+    
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding:10px 20px;
+    border-radius:10px;
+    color: white;
+
+}
+.middle-bannar{
+    width: fit-content;
+    padding-top: 50px;
+    background-image: url(BG_right.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+ 
+.ex-sec{
+    
+    float: left;
+    margin-left: 5%;
+    padding: 10px 10px;
+}
+    
+
+h4{
+    color: orange;
+}
+.single-exp{
+    box-shadow:10px 10px 20px  dimgray;
+    border-radius: 5px;
+    height: 520px;
+}
+#co{
+    border-left: 7px solid;
+    border-image: linear-gradient (180deg,purple,blue) ;
+    border-image-slice: 1;
+}
+#gfx{
+    border-left: 7px solid;
+    border-image: linear-gradient (180deg, green, yellow ) ;
+    border-image-slice: 1;  
+}
+
+.likha{
+    overflow: hidden;
+    padding-right: 10px;
+    overflow-wrap: break-word;
+
+}
+
+.footer{
+    text-align: center;
+    margin-top: 540px;
+    padding-top: 100px;
+}
